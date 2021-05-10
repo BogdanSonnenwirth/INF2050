@@ -1,5 +1,0 @@
-Le nombre de reclamations valides traitees est 6
-Le nombre de demandes rejetees est 0
-- soin 700 : 2    Montant maximal reclame: 270.00$    Moyenne des montants reclames: 148.00$
-- soin 400 : 1    Montant maximal reclame: 2.00$    Moyenne des montants reclames: 2.00$
-- soin 100 : 1    Montant maximal reclame: 20.00$    Moyenne des montants reclames: 20.00$
